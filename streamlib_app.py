@@ -1,4 +1,4 @@
-import streamlib as st
+import streamlit as st
 import clips
 import logging
 
